@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\source\\repos\\ACME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E033B66A-709F-4A16-892E-A74DF7C0B18E}|ACME.BLTEST\\ACME.BLTEST.csproj|c:\\users\\marcos\\source\\repos\\acme\\acme.bltest\\ordendeventatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E033B66A-709F-4A16-892E-A74DF7C0B18E}|ACME.BLTEST\\ACME.BLTEST.csproj|solutionrelative:acme.bltest\\ordendeventatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489C3EDB-A845-4033-8588-2F576A3CAC69}|ACME.BL\\ACME.BL.csproj|c:\\users\\marcos\\source\\repos\\acme\\acme.bl\\ordendeventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489C3EDB-A845-4033-8588-2F576A3CAC69}|ACME.BL\\ACME.BL.csproj|solutionrelative:acme.bl\\ordendeventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489C3EDB-A845-4033-8588-2F576A3CAC69}|ACME.BL\\ACME.BL.csproj|c:\\users\\marcos\\source\\repos\\acme\\acme.bl\\detalleorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489C3EDB-A845-4033-8588-2F576A3CAC69}|ACME.BL\\ACME.BL.csproj|solutionrelative:acme.bl\\detalleorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489C3EDB-A845-4033-8588-2F576A3CAC69}|ACME.BL\\ACME.BL.csproj|c:\\users\\marcos\\source\\repos\\acme\\acme.bl\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489C3EDB-A845-4033-8588-2F576A3CAC69}|ACME.BL\\ACME.BL.csproj|solutionrelative:acme.bl\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E033B66A-709F-4A16-892E-A74DF7C0B18E}|ACME.BLTEST\\ACME.BLTEST.csproj|c:\\users\\marcos\\source\\repos\\acme\\acme.bltest\\acme.bltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E033B66A-709F-4A16-892E-A74DF7C0B18E}|ACME.BLTEST\\ACME.BLTEST.csproj|solutionrelative:acme.bltest\\acme.bltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ACME.BLTEST",
+              "DocumentMoniker": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BLTEST\\ACME.BLTEST.csproj",
+              "RelativeDocumentMoniker": "ACME.BLTEST\\ACME.BLTEST.csproj",
+              "ToolTip": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BLTEST\\ACME.BLTEST.csproj",
+              "RelativeToolTip": "ACME.BLTEST\\ACME.BLTEST.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T14:34:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenDeVentaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BLTEST\\OrdenDeVentaTest.cs",
+              "RelativeDocumentMoniker": "ACME.BLTEST\\OrdenDeVentaTest.cs",
+              "ToolTip": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BLTEST\\OrdenDeVentaTest.cs",
+              "RelativeToolTip": "ACME.BLTEST\\OrdenDeVentaTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:32:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleOrden.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BL\\DetalleOrden.cs",
+              "RelativeDocumentMoniker": "ACME.BL\\DetalleOrden.cs",
+              "ToolTip": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BL\\DetalleOrden.cs",
+              "RelativeToolTip": "ACME.BL\\DetalleOrden.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:18:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenDeVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BL\\OrdenDeVenta.cs",
+              "RelativeDocumentMoniker": "ACME.BL\\OrdenDeVenta.cs",
+              "ToolTip": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BL\\OrdenDeVenta.cs",
+              "RelativeToolTip": "ACME.BL\\OrdenDeVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:16:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BL\\Producto.cs",
+              "RelativeDocumentMoniker": "ACME.BL\\Producto.cs",
+              "ToolTip": "C:\\Users\\Marcos\\source\\repos\\ACME\\ACME.BL\\Producto.cs",
+              "RelativeToolTip": "ACME.BL\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:08:54.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

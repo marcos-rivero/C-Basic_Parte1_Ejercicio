@@ -1,0 +1,11 @@
+C:\Users\Marcos\source\repos\ACME\ACME.BL\bin\Debug\net8.0\ACME.BL.deps.json
+C:\Users\Marcos\source\repos\ACME\ACME.BL\bin\Debug\net8.0\ACME.BL.dll
+C:\Users\Marcos\source\repos\ACME\ACME.BL\bin\Debug\net8.0\ACME.BL.pdb
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ACME.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ACME.BL.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ACME.BL.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ACME.BL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ACME.BL.dll
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\refint\ACME.BL.dll
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ACME.BL.pdb
+C:\Users\Marcos\source\repos\ACME\ACME.BL\obj\Debug\net8.0\ref\ACME.BL.dll
